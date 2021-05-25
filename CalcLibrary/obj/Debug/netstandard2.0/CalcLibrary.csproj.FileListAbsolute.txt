@@ -1,0 +1,9 @@
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\Shubham\Downloads\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
